@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='expose-build-xml' version='1.0-SNAPSHOT'><l:dependency name='expose-build-xml' groupId='org.jenkins-ci.plugins' artifactId='expose-build-xml' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/expose-build-xml/'><l:description/><l:license name='MIT License' url='http://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>

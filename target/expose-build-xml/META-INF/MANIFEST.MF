@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: jbull
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_71
+Extension-Name: expose-build-xml
+Implementation-Title: expose-build-xml
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: expose-build-xml
+Long-Name: expose-build-xml
+Url: http://jenkins-ci.org/plugin/expose-build-xml/
+Plugin-Version: 1.0-SNAPSHOT (private-12/12/2014 20:17-jbull)
+Hudson-Version: 1.532.3
+Jenkins-Version: 1.532.3
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+
